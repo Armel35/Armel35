@@ -2,7 +2,7 @@
 - 👀 I’m interested in TTS (french)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me armel35@gmail.com
+- 📫 How to reach me md-ouest@orange.fr
 
 <!---
 Armel35/Armel35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
